@@ -1,0 +1,92 @@
+@media (min-width: 740px) and (max-width: 980px) {
+	.container {
+		max-width: 720px;
+	}
+
+  /* Sobre */
+	.sobre-item {
+		width: 340px;
+	}
+
+  /* Produto */
+  .produtos-item {
+		width: 220px;
+	}
+
+  /* Locais */
+  .locais {
+		max-width: 720px;
+	}
+	.locais-item > div, .locais-item img {
+		width: 340px;
+	}
+
+  /* Assine */
+  .assine-info, .assine form, .assine input {
+		width: 340px;
+	}
+
+}
+
+@media (max-width: 739px) {
+  .container {
+		max-width: 300px;
+	}
+
+  /* Menu */
+	.menu {
+		text-align: center;
+	}
+	a.menu-logo {
+		float: none;
+		margin: 0 auto;
+	}
+	.menu-nav {
+		float: none;
+		clear: both;
+	}
+  
+
+
+  /* Intro */
+  .intro {
+		padding: 60px 0;
+	}
+
+  /* Sobre */
+	.sobre-item {
+		width: 300px;
+		margin: 0 auto;
+	}
+
+  /* Produtos */
+	.produtos-item {
+		margin: 0 auto 20px auto;
+	}
+
+  /* Locais */
+  .locais {
+		max-width: 300px;
+	}
+	.locais-item > div, .locais-item img {
+		width: 300px;
+		margin: 0px;
+	}
+
+  /* Assine */
+	.assine > div > div, .assine form, .assine input {
+		width: 300px;
+		margin: 10px 0 0 0;
+	}
+
+  /* Footer */
+	.footer p {
+		float: none;
+		margin: 0px;
+	}
+	.footer img {
+		float: none;
+		margin: 20px 0;
+	}
+
+}

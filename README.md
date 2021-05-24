@@ -1,4 +1,10 @@
-# Brafe 1 - Pure CSS
+# Brafe - Puro CSS
 
-Site desenvolvido para treinamento de PURO CSS.
-Foram abordados conceitos de puro css para desenvolvimento de layout responsivo.
+Primeira versão do layout Brafe, utilizando os conceitos de puro css em desktops e mobiles.
+
+#### Outras versões:
+
+* [Grid CSS](https://github.com/taisesoares/brafe-grid-css)
+* [Flexbox](https://github.com/taisesoares/brafe-flexbox)
+* [Boostrap](https://github.com/taisesoares/brafe-bootstrap)
+
